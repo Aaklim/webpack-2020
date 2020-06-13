@@ -1,0 +1,10 @@
+@import '~normalize.css';
+
+
+.main {
+    font-family: 'Roboto', sans-serif;
+    color: red;
+    text-align: center;
+
+
+}
